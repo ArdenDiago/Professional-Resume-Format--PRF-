@@ -7,8 +7,8 @@ import {
 } from "ionicons/icons";
 
 // Constant Values
-const emailId = "diagoarden@gmail.com";
-const phoneNo = "+91-7208715575";
+const emailId = "<id>@<Domain>.com";
+const phoneNo = "+91- <Phone-No>";
 
 export const skills = [
   "Developer",
